@@ -1,5 +1,5 @@
 # Hola-Mundo
-Python: print("Hello, World!")
+**Python: print("Hello, World!")**
 
 JavaScript: console.log("Hello, World!");
 
